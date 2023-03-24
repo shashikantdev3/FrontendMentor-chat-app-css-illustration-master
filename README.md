@@ -14,8 +14,6 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://github.com/shashikantdev3/FrontendMentor-chat-app-css-illustration-master)
+- Live Site URL: [Live Preview](https://shashikantdev3.github.io/FrontendMentor-chat-app-css-illustration-master/)
 
 ## My process
 
@@ -116,8 +114,8 @@ label.input-msg::before{
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Shashikant Dev](https://www.your-site.com)
+- Frontend Mentor - [@shashikantdev3](https://www.frontendmentor.io/profile/shashikantdev3)
+- Twitter - [@shashikantdev3](https://www.twitter.com/shashikantdev3)
 
 
