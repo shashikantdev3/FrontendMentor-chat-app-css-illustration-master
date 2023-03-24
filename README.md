@@ -12,7 +12,6 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -109,8 +108,6 @@ label.input-msg::before{
 
 ```
 
-
-### Continued development
 
 ## Author
 
